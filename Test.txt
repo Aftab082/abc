@@ -1,0 +1,15 @@
+Sr.No	Name	Age	Place	Gender	Study	Height
+						
+1	Amit	21.454	Surja	Male	No	124
+2	Yash	65.789	Pune	Male	Yes	117
+3	Kapil	12.896	Mumbai	Male	No	189
+4	Anushka	13.789	Karjat	Female	No	120
+5	Sanika	15.795	Surat	Female	Yes	119
+6	Rohit	45.897	solapur	Male	No	178
+7	Amrita	65.456	Roha	Female	no	135
+8	soniya	12.123	Malvan	Female	yes	146
+9	Riya	15.789	Kolhapur	Female	no	185
+10	nilesh	15.416	Satara	Male	no	163
+11	shyam	45.321	Dadar	Male	no	125
+12	adhishtha	96.325	Chinchpokli	Male	yes	142
+13	ved	32.123	Kamothe	Male	yes	156
